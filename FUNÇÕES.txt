@@ -1,2 +1,5 @@
 #Gerar cumulativo por data
 DATESYTD(data)
+
+#Avaliar mesmo período do ano anterior
+SAMEPERIODLASTYEAR
